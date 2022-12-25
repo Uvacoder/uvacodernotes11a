@@ -33,7 +33,7 @@ module.exports = {
   themeConfig: {
     displayAllHeaders: false, // Default: false
     searchPlaceholder: 'Search...',
-    repo: '',
+    repo: 'abcnotez6d',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
